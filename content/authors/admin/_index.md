@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:nzioulis@gmail.com
     display:
       header: true
   - icon: graduation-cap
