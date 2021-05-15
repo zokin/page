@@ -28,7 +28,7 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/nikolaos-zioulis
+    link: https://www.linkedin.com/in/nikolaos-zioulis/
     label: LinkedIn
     display:
       header: true
