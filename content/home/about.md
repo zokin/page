@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: about-me
 headless: true
-weight: 20
+weight: 30
 title: About me
 subtitle: ""
 ---

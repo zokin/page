@@ -39,10 +39,10 @@ organizations:
 education:
   courses:
     - course: Electrical and Computer Engineer
-      institution: Aristotle University of Thessaloniki
+      institution: Aristotle University of Thessaloniki, School of Electrical and Computer Engineering
       year: ""
-email: ""
+email: "nzioulis@gmail.com"
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 A research engineer working at the intersection of **computer graphics**, **computer (3D) vision** and **machine learning** technologies with a focus on immersive / emerging media and live realistic tele-presence technologies spanning across the XR spectrum.

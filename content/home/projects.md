@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Collaborative R&D'
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: AI
+    tag: AI
+  - name: Volumetric
+    tag: Volumetric
+  - name: 360
+    tag: 360
+  - name: 5G
+    tag: 5G
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
