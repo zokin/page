@@ -1,5 +1,5 @@
 ---
-title: "Single‑shot cuboids: Geodesics‑based end‑to‑end Manhattan aligned layout estimationfrom spherical panoramas."
+title: "Single‑shot cuboids: Geodesics‑based end‑to‑end Manhattan aligned layout estimationfrom spherical panoramas"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -45,7 +45,7 @@ featured: true
 links:
 - name: Supplementary
   url: https://ars.els-cdn.com/content/image/1-s2.0-S0262885621000652-mmc1.pdf
-- name: Project Page
+- name: Website
   url: https://vcl3d.github.io/SingleShotCuboids/
 
 url_pdf: 'https://arxiv.org/pdf/1909.08112.pdf'
@@ -81,7 +81,7 @@ projects:
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the ***Cite*** button above to copy/download publication metadata (*.bib).
 {{% /callout %}}
 
 <!-- 

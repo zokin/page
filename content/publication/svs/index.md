@@ -46,7 +46,7 @@ featured: false
 links:
 - name: Supplementary
   url: uploads/svs_supp.pdf
-- name: Project Page
+- name: Website
   url: https://vcl3d.github.io/SphericalViewSynthesis/
 
 url_pdf: 'https://arxiv.org/pdf/1909.08112.pdf'
@@ -82,7 +82,7 @@ projects:
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the ***Cite*** button above to copy/download publication metadata (*.bib).
 {{% /callout %}}
 
 <!-- 

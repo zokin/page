@@ -35,6 +35,10 @@ content:
     tag: 360
   - name: 5G
     tag: 5G
+  - name: Drone
+    tag: Drone
+  - name: SLAM
+    tag: SLAM
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
