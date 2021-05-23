@@ -43,14 +43,22 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Supplementary
-  url: https://static-content.springer.com/esm/chp%3A10.1007%2F978-3-030-01231-1_28/MediaObjects/474211_1_En_28_MOESM1_ESM.pdf
 - name: Website
   url: http://vcl.iti.gr/360-dataset/
-
-url_pdf: 'https://arxiv.org/pdf/1807.09620.pdf'
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://arxiv.org/pdf/1807.09620.pdf
+- icon:
+  icon_pack: fab
+  name: Data
+  url: http://vcl.iti.gr/360-dataset/
+- name: Supplementary
+  url: https://static-content.springer.com/esm/chp%3A10.1007%2F978-3-030-01231-1_28/MediaObjects/474211_1_En_28_MOESM1_ESM.pdf
+  
+url_pdf: ''
 url_code: ''
-url_dataset: 'http://vcl.iti.gr/360-dataset/'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

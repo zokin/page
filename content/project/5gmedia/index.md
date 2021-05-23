@@ -35,10 +35,18 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/5g-media
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: http://www.5gmedia.eu/cms/wp-content/uploads/2018/05/5g-Media-brochure-A5-v3-final-web.pdf
+- icon:
+  icon_pack: fab
+  name: Video
+  url: https://youtu.be/WOCad-9d4vM
 url_code: ""
-url_pdf: "http://www.5gmedia.eu/cms/wp-content/uploads/2018/05/5g-Media-brochure-A5-v3-final-web.pdf"
+url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/WOCad-9d4vM"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

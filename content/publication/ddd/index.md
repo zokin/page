@@ -52,9 +52,17 @@ featured: true
 links:
 - name: Website
   url: https://vcl3d.github.io/DeepDepthDenoising/
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://arxiv.org/pdf/1909.01193.pdf
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/VCL3D/DeepDepthDenoising
 
-url_pdf: 'https://arxiv.org/pdf/1909.01193.pdf'
-url_code: 'https://github.com/VCL3D/DeepDepthDenoising'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

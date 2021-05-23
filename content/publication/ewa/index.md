@@ -46,7 +46,13 @@ featured: false
 # - name: Website
 #   url: https://vcl3d.github.io/VolumetricCapture/
 
-url_pdf: 'https://www.iti.gr/iti/files/document/work/EWA_ISMAR2017.pdf'
+links:
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://www.iti.gr/iti/files/document/work/EWA_ISMAR2017.pdf
+
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

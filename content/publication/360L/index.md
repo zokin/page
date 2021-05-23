@@ -46,15 +46,25 @@ featured: false
 links:
 - name: Website
   url: https://vcl3d.github.io/DeepPanoramaLighting
+- name: PDF
+  url: https://arxiv.org/pdf/2005.08000.pdf
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/VCL3D/DeepPanoramaLighting
+- icon:
+  icon_pack: fab
+  name: Video
+  url: https://youtu.be/M7c69qxVzXY
 
-url_pdf: 'https://arxiv.org/pdf/2005.08000.pdf'
-url_code: 'https://github.com/VCL3D/DeepPanoramaLighting'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/M7c69qxVzXY'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

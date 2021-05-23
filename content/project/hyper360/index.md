@@ -22,10 +22,14 @@ links:
   icon_pack: fab
   name: Website
   url: https://www.hyper360.eu/
+- icon:
+  icon_pack: fab
+  name: Video
+  url: https://www.youtube.com/channel/UCVBnLR0Eb8rgfLeel6pNVRA
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/channel/UCVBnLR0Eb8rgfLeel6pNVRA"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

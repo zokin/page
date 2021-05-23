@@ -49,15 +49,27 @@ featured: true
 links:
 - name: Website
   url: https://vcl3d.github.io/StructureNet/
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://arxiv.org/pdf/2003.10176.pdf
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/VCL3D/StructureNet/
+- icon:
+  icon_pack: fab
+  name: Video
+  url: https://youtu.be/0l5neSMt-2Y
 
-url_pdf: 'https://arxiv.org/pdf/2003.10176.pdf'
-url_code: 'https://github.com/VCL3D/StructureNet/'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/0l5neSMt-2Y'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

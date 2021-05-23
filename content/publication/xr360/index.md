@@ -47,11 +47,13 @@ tags: [Volumetric, AI, 360]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Website
-#   url: https://vcl3d.github.io/VolumetricCapture/
+links:
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://www.iti.gr/iti/files/document/publications/ICME2020_XRWorkshop.pdf
 
-url_pdf: 'https://www.iti.gr/iti/files/document/publications/ICME2020_XRWorkshop.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

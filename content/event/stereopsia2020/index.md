@@ -34,15 +34,15 @@ image:
   caption: 'The ATLANTIS concept (image credit Roomle)'
   focal_point: Smart
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links:
+- icon:
+  icon_pack: fab
+  name: Video
+  url: https://youtu.be/xT8JhjKh2jk
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/xT8JhjKh2jk"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

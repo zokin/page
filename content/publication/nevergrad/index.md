@@ -1,31 +1,31 @@
 ---
-title: "A Low‑cost, Flexible and Portable Volumetric Capturing System"
+title: "Zeroth-Order Optimizer Benchmarking for 3D PerformanceCapture"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Alexandros Doumanoglou
+- Petros Drakoulis
+- Kyriaki Christaki
+- admin
 - Vladimiros Sterzentsenko
 - Antonis Karakottas
-- Alexandros Papachristou
-- admin
-- Alexandros Doumanoglou
 - Dimitrios Zarpalas
-- Federico Alvarez
 - Petros Daras
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
+- ""
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2018-01-26T00:00:00Z"
-doi: "10.1109/SITIS.2018.00038"
+date: "2021-05-10T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2021-07-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,31 +34,31 @@ doi: "10.1109/SITIS.2018.00038"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2018 14th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS)*
-publication_short: In *SITIS18*
+publication: In *2021 Genetic and Evolutionary Computation Conference (GECCO) *
+publication_short: In *GECCO21*
 
-abstract: Multi-view capture systems are complex systems to engineer. They require technical knowledge to install and intricate processes to setup related mainly to the sensors' spatial alignment (i.e. external calibration). However, with the ongoing developments in new production methods, we are now at a position where the production of high quality realistic 3D assets is possible even with commodity sensors. Nonetheless, the capturing systems developed with these methods are heavily intertwined with the methods themselves, relying on custom solutions and seldom - if not at all - publicly available. In light of this, we design, develop and publicly offer a multi-view capture system based on the latest RGB-D sensor technology. For our system, we develop a portable and easy-to-use external calibration method that greatly reduces the effort and knowledge required, as well as simplify the overall process.
+abstract: In the field of 3D Human Performance Capture, a high-quality 3D scan of the performer is rigged and skinned to an animatable 3D template mesh that is subsequently fitted to the captured performance’s RGB-D data. Template fitting is accomplished via solving for the template’s pose parameters that better explain the performance data at each recorded frame. In this paper, we challenge open implementations of zeroth-order optimizers to solve the template fitting problem in a human performance capture dataset. The objective function that we employ approximates, the otherwise costly to evaluate, 3D RMS hausdorff distance between the animated template and the 3D mesh reconstructed from the depth data (target mesh) at an individual recorded frame. We distinguish and benchmark the optimizers, in three different real-world scenarios, two of which are based on the geometric proximity of the template to the target in individual frames, while in the third one we fit the template sequentially to all target frames of the recorded sequence. Conclusions of this work can serve as a reference for future optimizer implementations and our findings can serve as a baseline for future multi-objective optimization approaches. We make part of our benchmark and experiment setup publicly available (https://github.com/VCL3D/nevergrad, https://github.com/VCL3D/PerformanceCapture/releases/).
 
 # Summary. An optional shortened abstract.
-summary: A low-cost, portable and easy-to-use publicly available volumetric capture system.
+summary: An openly available zeroth-order performance capture benchmark integrated in the nevergrad platform.
 
-tags: [Volumetric, AI]
+tags: [Volumetric]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
 - name: Website
-  url: https://vcl3d.github.io/VolumetricCapture/
-- icon:
-  icon_pack: fab
-  name: PDF
-  url: https://arxiv.org/pdf/1909.01207.pdf
+  url: https://vcl3d.github.io/nevergrad/
+# - icon:
+#   icon_pack: fab
+#   name: PDF
+#   url: 
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/VCL3D/VolumetricCapture/
+  url: https://github.com/vcl3d/nevergrad/tree/perfcap_benchmark
 
 url_pdf: ''
 url_code: ''
@@ -72,7 +72,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Low-cost Volumetric Capture'
+  caption: 'The energy function.'
   focal_point: "Smart"
   preview_only: false
 

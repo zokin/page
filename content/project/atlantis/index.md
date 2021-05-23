@@ -39,10 +39,18 @@ links:
   icon_pack: fab
   name: See
   url: https://www.instagram.com/atlantis_ar/
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://a.storyblok.com/f/91122/x/f8151b483b/atlantis_two_page_leaflet.pdf
+- icon:
+  icon_pack: fab
+  name: Video
+  url: https://youtu.be/QbakNwE-hAc
 url_code: ""
-url_pdf: "https://a.storyblok.com/f/91122/x/f8151b483b/atlantis_two_page_leaflet.pdf"
+url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/QbakNwE-hAc"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

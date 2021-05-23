@@ -34,12 +34,12 @@ image:
   caption: 'Volumetric Capture @ VCL3D'
   focal_point: Right
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
-url_code: "https://vcl3d.github.io/VolumetricCapture/"
+links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://vcl3d.github.io/VolumetricCapture/
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

@@ -50,12 +50,20 @@ featured: false
 links:
 - name: Website
   url: https://vcl.iti.gr/dataset/3d-reconstruction-and-skeleton-based-motion-tracking/
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://arxiv.org/ftp/arxiv/papers/1712/1712.03084.pdf
+- icon:
+  icon_pack: fab
+  name: Data
+  url: https://vcl.iti.gr/dataset/datasets-of-multiple-kinect2-rgb-d-streams-and-skeleton-tracking/
 - name: Supplementary
   url: https://vcl.iti.gr/dataset/3d-reconstruction-and-skeleton-based-motion-tracking/
-
-url_pdf: 'https://arxiv.org/ftp/arxiv/papers/1712/1712.03084.pdf'
+  
+url_pdf: ''
 url_code: ''
-url_dataset: 'https://vcl.iti.gr/dataset/datasets-of-multiple-kinect2-rgb-d-streams-and-skeleton-tracking/'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

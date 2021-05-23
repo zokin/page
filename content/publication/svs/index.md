@@ -44,19 +44,36 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Supplementary
-  url: uploads/svs_supp.pdf
 - name: Website
   url: https://vcl3d.github.io/SphericalViewSynthesis/
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://arxiv.org/pdf/1909.08112.pdf
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/VCL3D/SphericalViewSynthesis
+- icon:
+  icon_pack: fab
+  name: Data
+  url: https://vcl3d.github.io/3D60/
+- name: Supplementary
+  url: uploads/svs_supp.pdf
+- icon:
+  icon_pack: fab
+  name: Video
+  url: https://youtu.be/7sWUyoJNe-U
 
-url_pdf: 'https://arxiv.org/pdf/1909.08112.pdf'
-url_code: 'https://github.com/VCL3D/SphericalViewSynthesis'
-url_dataset: 'https://vcl3d.github.io/3D60/'
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/7sWUyoJNe-U'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

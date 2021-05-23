@@ -47,17 +47,29 @@ featured: false
 links:
 - name: Website
   url: http://vcl.iti.gr/performancecapture/
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://www.iti.gr/iti/files/document/publications/RGB-D_09-03-2018.pdf
+- icon:
+  icon_pack: fab
+  name: Data
+  url: http://vcl.iti.gr/dataset/dataset-of-multiple-kinect2-rgb-d-streams/
 - name: Supplementary
   url: https://ars.els-cdn.com/content/image/1-s2.0-S0031320318300657-mmc1.pdf
+- icon:
+  icon_pack: fab
+  name: Video
+  url: https://youtu.be/RHViHg75kh8
 
-url_pdf: 'https://www.iti.gr/iti/files/document/publications/RGB-D_09-03-2018.pdf'
+url_pdf: ''
 url_code: ''
-url_dataset: 'http://vcl.iti.gr/dataset/dataset-of-multiple-kinect2-rgb-d-streams/'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/RHViHg75kh8'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -55,10 +55,22 @@ featured: false
 links:
 - name: Website
   url: https://vcl.iti.gr/dataset/human4d/
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9204617
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/tofis/human4d_dataset
+- icon:
+  icon_pack: fab
+  name: Data
+  url: https://ieee-dataport.org/open-access/human4d-human-centric-multimodal-dataset-motions-immersive-media
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9204617'
-url_code: 'https://github.com/tofis/human4d_dataset'
-url_dataset: 'https://ieee-dataport.org/open-access/human4d-human-centric-multimodal-dataset-motions-immersive-media'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

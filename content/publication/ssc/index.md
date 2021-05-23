@@ -43,13 +43,21 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Supplementary
-  url: https://ars.els-cdn.com/content/image/1-s2.0-S0262885621000652-mmc1.pdf
 - name: Website
   url: https://vcl3d.github.io/SingleShotCuboids/
+- icon:
+  icon_pack: fab
+  name: PDF
+  url: https://arxiv.org/pdf/2102.03939.pdf
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/VCL3D/SingleShotCuboids
+- name: Supplementary
+  url: https://ars.els-cdn.com/content/image/1-s2.0-S0262885621000652-mmc1.pdf
 
-url_pdf: 'https://arxiv.org/pdf/1909.08112.pdf'
-url_code: 'https://github.com/VCL3D/SingleShotCuboids'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
