@@ -21,8 +21,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2021-05-10T00:00:00Z"
-doi: ""
+date: "2021-06-10T00:00:00Z"
+doi: "10.1145/3449639.3459354"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-07-10T00:00:00Z"
@@ -34,7 +34,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 Genetic and Evolutionary Computation Conference (GECCO) *
+publication: In *2021 Genetic and Evolutionary Computation Conference (GECCO)*
 publication_short: In *GECCO21*
 
 abstract: In the field of 3D Human Performance Capture, a high-quality 3D scan of the performer is rigged and skinned to an animatable 3D template mesh that is subsequently fitted to the captured performance’s RGB-D data. Template fitting is accomplished via solving for the template’s pose parameters that better explain the performance data at each recorded frame. In this paper, we challenge open implementations of zeroth-order optimizers to solve the template fitting problem in a human performance capture dataset. The objective function that we employ approximates, the otherwise costly to evaluate, 3D RMS hausdorff distance between the animated template and the 3D mesh reconstructed from the depth data (target mesh) at an individual recorded frame. We distinguish and benchmark the optimizers, in three different real-world scenarios, two of which are based on the geometric proximity of the template to the target in individual frames, while in the third one we fit the template sequentially to all target frames of the recorded sequence. Conclusions of this work can serve as a reference for future optimizer implementations and our findings can serve as a baseline for future multi-objective optimization approaches. We make part of our benchmark and experiment setup publicly available (https://github.com/VCL3D/nevergrad, https://github.com/VCL3D/PerformanceCapture/releases/).
